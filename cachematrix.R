@@ -38,7 +38,8 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 #' Inverses a matrix. 
-#' If the cache is available, return it. If not, calculate the inverse and cache it
+#' If the cache is available, return it. 
+#' If not, calculate the inverse, cache the result, and return it.
 #' 
 #' @param x object made from makeCacheMatrix()
 #' @return inverse of the given matrix. 
