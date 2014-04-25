@@ -1,6 +1,6 @@
 #' Functions 
 #' - to create a special type of matrix and 
-#' - cache matrix inverse calculation
+#' - cache the result of matrix inverse calculation
 #'
 #' How to use:
 #' 
